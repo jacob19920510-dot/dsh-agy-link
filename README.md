@@ -54,7 +54,7 @@
 ---
 
 ## 🌟 核心亮点：多账号池化与智能轮换
-
+https://www.bilibili.com/video/BV1L58B6GEjf/?spm_id_from=333.337.search-card.all.click&vd_source=de2d05d48ab2188f119332825da434e5
 你拥有多个 Google Antigravity / Gemini 账号？**dsh-agy-link 让多账号管理变得极致简单与自动化**：
 
 - 👥 **多账号池化管理 (Account Pool)**：在 DSH 内添加任意数量的 Google 账号（主账号 + 备用账号群），每个账号拥有独立的 HOME 目录沙箱与凭证隔离。
